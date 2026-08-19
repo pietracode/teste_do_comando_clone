@@ -26,3 +26,4 @@ listaNumeros.push(5,6)
 //nomeDaLista.includes(elementoParaProcurar);
 listaNumeros.includes(5); // mostra true.
 listaNumeros.includes(8); //mostra false.
+//testando git pull remoto.
