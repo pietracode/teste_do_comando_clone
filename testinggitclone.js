@@ -19,7 +19,7 @@ listaDeExemplo[listaDeExemplo.length-1];
 //vai mostrar 'Roberta'.
 //para adicionar um ou mais elementos ao final de uma lista utilizamos o .push()
 //então se na listaNumeros eu quiser adicionar mais números 
-listaNumeros.push(5,6)
+listaNumeros.push(3,3)
 //vai mostar listaNumeros[1, 2, 3, 4, 5, 6]
 
 //>> a função .includes verifica se determinado elemento existe ou não dentro da list. ele devolve um valor booleano.
