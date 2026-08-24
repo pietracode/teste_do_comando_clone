@@ -25,11 +25,5 @@ listaNumeros.push(5,6)
 //>> a função .includes verifica se determinado elemento existe ou não dentro da list. ele devolve um valor booleano.
 //nomeDaLista.includes(elementoParaProcurar);
 listaNumeros.includes(5); // mostra true.
-listaNumeros.includes(8); //mostra false.
+listaNumeros.includes(9); //mostra false.
 //testando git pull remoto.
-/*Acesse todos os commits realizados
-Modifique o último commit
-Reverta mudanças no repositório local
-Apague um ou mais commits
-Sincronize as modificações com o repositório remoto
-Analise as mensagens de commits realizados e faça as alterações de acordo com as boas práticas*/
