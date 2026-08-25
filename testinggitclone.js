@@ -25,4 +25,4 @@ listaNumeros.push(5,6)
 //>> a função .includes verifica se determinado elemento existe ou não dentro da list. ele devolve um valor booleano.
 //nomeDaLista.includes(elementoParaProcurar);
 listaNumeros.includes(5); // mostra true.
-listaNumeros.includes(9); //mostra false.
+listaNumeros.includes(10); //mostra false.
